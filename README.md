@@ -1,3 +1,5 @@
+Authors: Marcony1
+
 # pycounts_mpbm
 
 Package to count words in a file
