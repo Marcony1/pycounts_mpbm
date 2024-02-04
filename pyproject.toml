@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_mpbm"
-version = "0.1.0"
+version = "0.1.1"
 description = "Package to count words in a file"
 authors = ["marcony1"]
 license = "MIT"
