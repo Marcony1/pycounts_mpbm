@@ -1,4 +1,4 @@
-Authors: Marcony1
+Author: Marcony1
 
 # pycounts_mpbm
 
