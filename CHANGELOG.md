@@ -2,6 +2,19 @@
 
 
 
+## v0.1.2 (2024-02-05)
+
+### Fix
+
+* fix: Authors changed to Author ([`da11547`](https://github.com/Marcony1/pycounts_mpbm/commit/da11547d09674d209bfc438730a8d40de063497a))
+
+### Unknown
+
+* Merge pull request #1 from Marcony1/rama_prueba
+
+fix: Authors changed to Author ([`6b5a029`](https://github.com/Marcony1/pycounts_mpbm/commit/6b5a02943791cc2a753bc2ba50cbd8c4874e2973))
+
+
 ## v0.1.1 (2024-02-04)
 
 ### Fix
